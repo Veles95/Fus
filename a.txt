@@ -8,3 +8,6 @@ git commit -m "File" ----- -m  comment
 
 git log
 
+git commit -a -m "data add"
+
+git checkout hash 
