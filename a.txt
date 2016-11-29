@@ -11,3 +11,5 @@ git log
 git commit -a -m "data add"
 
 git checkout hash 
+
+git cherry-pick õç
